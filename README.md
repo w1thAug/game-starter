@@ -5,3 +5,4 @@
 
 ### 🎮 VS code Html + JS 🎮 
 **[3. Jump Game](https://github.com/w1thAug/game-starter/tree/main/Jump)**
+**[3. Baseball Game](https://github.com/w1thAug/game-starter/tree/main/Baseball)**
